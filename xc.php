@@ -3,7 +3,7 @@
     {
         public $a;
         public $b;
-        public $c,$d,$V;
+        public $c,$d,$V,$s;
         function __contruct($a,$b){
             $this->a = $a;
             $this->b = $b;
